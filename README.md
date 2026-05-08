@@ -10,7 +10,7 @@
 
 ## Demo
 <div align="center">
-<img src="image.png" alt="Swift client using the Quaynor Swift package" width="100" height="220" />
+<img src="image.png" alt="Swift client using the Quaynor Swift package" width="200" />
 </div>
 
 ## Layout
