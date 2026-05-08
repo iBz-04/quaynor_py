@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-   <p>This repository demonstrates a **native Swift** client that uses the [**Quaynor** Swift package](https://www.quaynor.site/swift/)</p>
+   <p>This repository demonstrates a client that uses the Quaynor Swift package</p>
 </div>
 
  
 
 ## Demo
 <div align="center">
-<img src="screenshot.png" alt="Swift client using the Quaynor Swift package" width="380" />
+<img src="image.png" alt="Swift client using the Quaynor Swift package" width="100" height="120" />
 </div>
 
 ## Layout
